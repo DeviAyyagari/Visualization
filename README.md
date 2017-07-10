@@ -3,12 +3,6 @@ Provides solution to the following problem:
 
 # Front-end & Visualization Developer Tasks
 
-The following tasks are designed to test your software development abilities and reflect common scenarios that you would encounter as frontend/visualization developer at the Scientific Computing and Imaging Institute at the University of Utah.
-
-We will be evaluating both your problem solving and coding skills based on these exercises. Note that even if you cannot implement everything that we are asking for within the time limit, you can still convince us that you are the right person for our team by taking a well-structured approach to the problems. Having said that, we do expect you to demonstrate strong software development skills in your solutions to these exercises.
-
-Please implement as much of  these exercises as you can within 72 hours of receiving them and send us an email when you have deposited the results in your GitHub repository (see Task 1). Contact alex@sci.utah.edu if you have any questions about the exercises. 
-
 
 ## Task 1
 _Goal: Demonstrate your ability to work with common collaboration tools for software development._
